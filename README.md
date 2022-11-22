@@ -1,8 +1,8 @@
 # deepesharya123
 
-my personal repository
+<!-- my personal repository -->
 <h1 align="center">Hi 👋, I'm  Deepesh Arya</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer and Learner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepesharya123&label=Profile%20views&color=0e75b6&style=flat" alt="deepesharya123" /> </p>
 
