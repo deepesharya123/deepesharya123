@@ -19,7 +19,6 @@
 
 <p><img align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepesharya123&show_icons=true&locale=en&layout=compact" alt="deepesharya123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepesharya123&show_icons=true&locale=en" alt="deepesharya123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepesharya123&" alt="deepesharya123" /></p>
 
